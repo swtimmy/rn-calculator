@@ -1,0 +1,19 @@
+{ 
+    "welcome": "Hello",
+    "tips":"Tips",
+    "clear":"Clear",
+    "history":"History",
+    "decimal":"Decimal",
+    "default":"Default",
+    "language":"Language",
+    "tutorial":"Tutorial",
+    "calculator":"Calculator",
+    "listing":"Listing",
+    "function":"Func{{page}}",
+    "skip":"Skip",
+    "next":"Next",
+    "prev":"Prev",
+    "dismiss":"Dismiss",
+    "error":"Error",
+    "infinity":"Infinity"
+}
